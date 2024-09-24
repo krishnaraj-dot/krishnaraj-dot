@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krishnaraj-dot
 - 👀 I’m interested in ...learning new programming languages 
-- 🌱 I’m currently learning ...C++
+- 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...Coding projects
 - 📫 How to reach me ...https://www.linkedin.com/in/krishnaraj-kurup-082682220
 - 😄 Pronouns: ...he/him
